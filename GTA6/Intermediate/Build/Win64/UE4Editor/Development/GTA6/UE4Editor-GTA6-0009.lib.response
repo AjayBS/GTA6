@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GTA6-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\GTA6Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\BTTask_SetTargetLocation.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\DailyLifeMasterAI.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\DailyLifeController.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\BotTargetPoint.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\GTA6.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\GTA6Character.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\GTA6GameMode.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\BotTargetPoint.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\BTTask_SetTargetLocation.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\DailyLifeController.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\DailyLifeMasterAI.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\GTA6.init.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\GTA6Character.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\GTA6GameMode.gen.cpp.obj"
+"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\Default.rc2.res"
+/OUT:"D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\UE4Editor-GTA6-0009.lib"
+/INCLUDE:IMPLEMENT_MODULE_GTA6

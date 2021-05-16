@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GTA6",
+			"Path": "D:\\2021 Projects\\GTA\\GTA6\\Source\\GTA6.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GTA6Editor",
+			"Path": "D:\\2021 Projects\\GTA\\GTA6\\Source\\GTA6Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

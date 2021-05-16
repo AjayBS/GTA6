@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GTA6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1BC488DD-3F8B-4745-AD2B-03BB8A5D526B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GTA6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GTA6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{33AEF514-BCDD-4DF0-9362-8A37EA4EA446}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GTA6">
+      <UniqueIdentifier>{699C0143-ED13-44BD-B41C-9862CB102769}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GTA6\GTA6.Build.cs">
+      <Filter>Source\GTA6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GTA6\GTA6.cpp">
+      <Filter>Source\GTA6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\GTA6.h">
+      <Filter>Source\GTA6</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GTA6\GTA6Character.cpp">
+      <Filter>Source\GTA6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\GTA6Character.h">
+      <Filter>Source\GTA6</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GTA6\GTA6GameMode.cpp">
+      <Filter>Source\GTA6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\GTA6GameMode.h">
+      <Filter>Source\GTA6</Filter>
+    </ClInclude>
+    <Filter Include="Source\GTA6\DailyLifeCharacter">
+      <UniqueIdentifier>{6995AC13-3DFC-44D2-8251-2ABDD3D4E157}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GTA6\DailyLifeCharacter\AI">
+      <UniqueIdentifier>{F599A21E-FD23-4E53-8CD3-23D24AA6FB07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GTA6\DailyLifeCharacter\AI\Tasks">
+      <UniqueIdentifier>{8BCE2BEE-C7F1-42E2-8BEC-AA407AA8AC5E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GTA6\DailyLifeCharacter\AI\Tasks\BTTask_SetTargetLocation.cpp">
+      <Filter>Source\GTA6\DailyLifeCharacter\AI\Tasks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\DailyLifeCharacter\AI\Tasks\BTTask_SetTargetLocation.h">
+      <Filter>Source\GTA6\DailyLifeCharacter\AI\Tasks</Filter>
+    </ClInclude>
+    <Filter Include="Source\GTA6\DailyLifeCharacter\Character">
+      <UniqueIdentifier>{421F5D9C-F249-46FD-8F91-854D40FACFAC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GTA6\DailyLifeCharacter\Character\DailyLifeMasterAI.cpp">
+      <Filter>Source\GTA6\DailyLifeCharacter\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\DailyLifeCharacter\Character\DailyLifeMasterAI.h">
+      <Filter>Source\GTA6\DailyLifeCharacter\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\GTA6\DailyLifeCharacter\Controller">
+      <UniqueIdentifier>{75A40545-6091-4A90-89F2-E0BA77554599}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GTA6\DailyLifeCharacter\Controller\DailyLifeController.cpp">
+      <Filter>Source\GTA6\DailyLifeCharacter\Controller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\DailyLifeCharacter\Controller\DailyLifeController.h">
+      <Filter>Source\GTA6\DailyLifeCharacter\Controller</Filter>
+    </ClInclude>
+    <Filter Include="Source\GTA6\DailyLifeCharacter\Misc">
+      <UniqueIdentifier>{441A2E06-D761-4E01-80B3-0CA411C35CF2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GTA6\DailyLifeCharacter\Misc\BotTargetPoint.cpp">
+      <Filter>Source\GTA6\DailyLifeCharacter\Misc</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GTA6\DailyLifeCharacter\Misc\BotTargetPoint.h">
+      <Filter>Source\GTA6\DailyLifeCharacter\Misc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

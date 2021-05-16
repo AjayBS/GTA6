@@ -1,0 +1,1112 @@
+﻿Log file open, 05/15/21 21:29:52
+LogInit: Display: Running engine for game: GTA6
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195331
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=sade_20 -epicuserid=212d209d3ab64bde90ec43b8f786d5e0 -epiclocale=en
+LogInit: Base Directory: D:/Softwares/Unreal Engine/UE_4.25/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.16-02.29.53:058][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.16-02.29.53:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:059][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.16-02.29.53:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.05.16-02.29.53:063][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.05.16-02.29.53:063][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.16-02.29.53:063][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.16-02.29.53:063][  0]LogHAL: Display: Platform has ~ 16 GB [17073405952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.16-02.29.53:063][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.16-02.29.53:064][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.16-02.29.53:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Scalability.ini]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.16-02.29.53:065][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/2021 Projects/GTA/GTA6/Saved/Config/Windows/Engine.ini]
+[2021.05.16-02.29.53:065][  0]LogInit: Computer: LAPTOP-THU897GP
+[2021.05.16-02.29.53:065][  0]LogInit: User: bsaja
+[2021.05.16-02.29.53:065][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.16-02.29.53:065][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.16-02.29.53:065][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.16-02.29.53:065][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.16-02.29.53:065][  0]LogMemory: Process Physical Memory: 116.38 MB used, 116.38 MB peak
+[2021.05.16-02.29.53:065][  0]LogMemory: Process Virtual Memory: 99.27 MB used, 99.27 MB peak
+[2021.05.16-02.29.53:065][  0]LogMemory: Physical Memory: 9356.78 MB used,  6925.69 MB free, 16282.47 MB total
+[2021.05.16-02.29.53:065][  0]LogMemory: Virtual Memory: 5168.69 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.05.16-02.29.53:072][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.16-02.29.53:105][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.16-02.29.53:106][  0]LogInit: Using OS detected language (en-US).
+[2021.05.16-02.29.53:106][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.16-02.29.53:107][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.16-02.29.53:246][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.16-02.29.53:280][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.16-02.29.53:280][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.16-02.29.53:503][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.16-02.29.53:503][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.16-02.29.53:503][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.16-02.29.53:503][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.16-02.29.53:591][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2021.05.16-02.29.53:591][  0]LogD3D11RHI:       5991/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.16-02.29.53:623][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.05.16-02.29.53:623][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.05.16-02.29.53:625][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.16-02.29.53:625][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.16-02.29.53:625][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.16-02.29.53:634][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.16-02.29.53:634][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.16-02.29.53:634][  0]LogWindows: EnumDisplayDevices:
+[2021.05.16-02.29.53:634][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2021.05.16-02.29.53:635][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.16-02.29.53:635][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.16-02.29.53:635][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2021.05.16-02.29.53:635][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.05.16-02.29.53:635][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.05.16-02.29.53:636][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.05.16-02.29.53:636][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.16-02.29.53:636][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2021.05.16-02.29.53:636][  0]LogD3D11RHI:   Driver Version: 431.70 (internal:26.21.14.3170, unified:431.70)
+[2021.05.16-02.29.53:636][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2021.05.16-02.29.53:636][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.05.16-02.29.53:688][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.16-02.29.53:688][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.16-02.29.53:688][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.16-02.29.53:750][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.16-02.29.54:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.16-02.29.54:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.16-02.29.54:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.16-02.29.54:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.16-02.29.54:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.16-02.29.54:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.16-02.29.54:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.16-02.29.54:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.16-02.29.54:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.16-02.29.54:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.16-02.29.54:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.16-02.29.54:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.16-02.29.54:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.16-02.29.54:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.16-02.29.54:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.16-02.29.54:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.16-02.29.54:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.16-02.29.54:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.16-02.29.54:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.16-02.29.54:194][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.16-02.29.54:201][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.16-02.29.54:248][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../../2021 Projects/GTA/GTA6/Intermediate/Shaders/WorkingDirectory/19380/).
+[2021.05.16-02.29.54:248][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bsaja/AppData/Local/Temp/UnrealShaderWorkingDir/ECF928F546A6FE0B56AAF09744089962/'.
+[2021.05.16-02.29.54:248][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.05.16-02.29.54:248][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.16-02.29.54:248][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.16-02.29.54:912][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.16-02.29.54:959][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/bsaja/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.05.16-02.29.54:959][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bsaja/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.05.16-02.29.54:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../2021 Projects/GTA/GTA6/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.16-02.29.54:959][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.16-02.29.54:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../2021 Projects/GTA/GTA6/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.16-02.29.54:959][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.16-02.29.54:968][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.16-02.29.54:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.16-02.29.54:968][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.16-02.29.54:969][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bsaja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.16-02.29.54:969][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.16-02.29.54:969][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.16-02.29.55:015][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.16-02.29.55:016][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.16-02.29.55:041][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.05.16-02.29.55:255][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.16-02.29.55:356][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.16-02.29.55:356][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.16-02.29.55:356][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.16-02.29.55:356][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.16-02.29.55:356][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.16-02.29.55:370][  0]LogNetVersion: GTA6 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1056021357)
+[2021.05.16-02.29.55:781][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000026193AD02C0), frame # 0
+[2021.05.16-02.29.55:781][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026193A0D080), frame # 0
+[2021.05.16-02.29.55:782][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026193A5DE00), frame # 0
+[2021.05.16-02.29.55:813][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.024721 seconds
+[2021.05.16-02.29.55:817][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.05.16-02.29.55:817][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.05.16-02.29.55:817][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.16-02.29.56:102][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.16-02.29.56:107][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.16-02.29.56:278][  0]SourceControl: Source control is disabled
+[2021.05.16-02.29.56:278][  0]SourceControl: Source control is disabled
+[2021.05.16-02.29.56:281][  0]SourceControl: Source control is disabled
+[2021.05.16-02.29.56:284][  0]SourceControl: Source control is disabled
+[2021.05.16-02.29.56:290][  0]SourceControl: Source control is disabled
+[2021.05.16-02.29.56:494][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.16-02.29.56:510][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.16-02.29.56:510][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.16-02.29.56:552][  0]LogOcInput: OculusInput pre-init called
+[2021.05.16-02.29.56:560][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.16-02.29.56:560][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.16-02.29.56:612][  0]LogEngine: Initializing Engine...
+[2021.05.16-02.29.56:613][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.16-02.29.56:613][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.16-02.29.56:613][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.16-02.29.56:715][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.16-02.29.56:721][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.16-02.29.56:721][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002619A435E00), frame # 0
+[2021.05.16-02.29.56:722][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002619A471F80), frame # 0
+[2021.05.16-02.29.56:740][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.29.56:741][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.29.56:741][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.29.56:741][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.29.56:755][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.29.56:755][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.29.56:823][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.29.56:826][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.29.56:828][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.29.56:828][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.29.56:829][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.29.56:830][  0]LogInit: FAudioDevice initialized.
+[2021.05.16-02.29.56:830][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.16-02.29.56:906][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/bsaja/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.05.16-02.29.56:906][  0]LogInit: Texture streaming: Enabled
+[2021.05.16-02.29.56:920][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.16-02.29.56:920][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.16-02.29.56:922][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.16-02.29.56:959][  0]LogInit: Transaction tracking system initialized
+[2021.05.16-02.29.56:978][  0]BlueprintLog: New page: Editor Load
+[2021.05.16-02.29.57:427][  0]LocalizationService: Localization service is disabled
+[2021.05.16-02.29.57:559][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.05.16-02.29.57:559][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.16-02.29.57:679][  0]LogFileCache: Scanning file cache for directory 'D:/2021 Projects/GTA/GTA6/Content/' took 0.01s
+[2021.05.16-02.29.57:909][  0]SourceControl: Source control is disabled
+[2021.05.16-02.29.57:909][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.837
+[2021.05.16-02.29.57:909][  0]Cmd: MAP LOAD FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.16-02.29.57:910][  0]LightingResults: New page: Lighting Build
+[2021.05.16-02.29.57:910][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.29.57:910][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.29.57:910][  0]MapCheck: New page: Map Check
+[2021.05.16-02.29.57:910][  0]LightingResults: New page: Lighting Build
+[2021.05.16-02.29.57:922][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002619A435E00), frame # 0
+[2021.05.16-02.29.57:922][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002619A471F80), frame # 0
+[2021.05.16-02.29.57:923][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.16-02.29.58:088][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.29.58:088][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002618B2DBC00), frame # 0
+[2021.05.16-02.29.58:088][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026195F04540), frame # 0
+[2021.05.16-02.29.58:099][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.16-02.29.58:113][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.16-02.29.58:114][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.16-02.29.58:114][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.05.16-02.29.58:114][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.204
+[2021.05.16-02.29.58:116][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.044
+[2021.05.16-02.29.59:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.29.59:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.29.59:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.29.59:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.29.59:070][  0]LogCollectionManager: Loaded 0 collections in 0.000872 seconds
+[2021.05.16-02.29.59:084][  0]LogFileCache: Scanning file cache for directory 'D:/2021 Projects/GTA/GTA6/Saved/Collections/' took 0.00s
+[2021.05.16-02.29.59:084][  0]LogFileCache: Scanning file cache for directory 'D:/2021 Projects/GTA/GTA6/Content/Developers/bsaja/Collections/' took 0.00s
+[2021.05.16-02.29.59:084][  0]LogFileCache: Scanning file cache for directory 'D:/2021 Projects/GTA/GTA6/Content/Collections/' took 0.00s
+[2021.05.16-02.29.59:084][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3433 classes and 829 folders.
+[2021.05.16-02.29.59:087][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.16-02.29.59:165][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.16-02.29.59:166][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.05.16-02.29.59:523][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.16-02.29.59:525][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.16-02.29.59:528][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.16-02.29.59:584][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.05.16-02.29.59:621][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.16-02.29.59:676][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.05.16-02.29.59:676][  0]LogLoad: (Engine Initialization) Total time: 8.60 seconds
+[2021.05.16-02.29.59:676][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.16-02.29.59:824][  0]LogAssetRegistry: Asset discovery search completed in 4.7848 seconds
+[2021.05.16-02.29.59:827][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.05.16-02.29.59:827][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.16-02.30.12:298][731]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.16-02.30.12:317][731]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DailyLifeCharacter/BP_DailyLifeMasterAI.BP_DailyLifeMasterAI
+[2021.05.16-02.30.12:497][731]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2021.05.16-02.30.13:214][731]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.16-02.30.30:283][717]LogSlate: Window 'BP_DailyLifeMasterAI' being destroyed
+[2021.05.16-02.30.38:383][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DailyLifeCharacter/Controller/BP_DailyLifeController.BP_DailyLifeController
+[2021.05.16-02.30.47:812][726]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.16-02.30.55:114][162]BlueprintLog: New page: Compile BP_DailyLifeController
+[2021.05.16-02.30.55:148][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.05.16-02.30.55:165][162]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.16-02.30.55:807][200]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/BP_DailyLifeController468848924E03194BF56068A4E98DBAD1.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/Controller/BP_DailyLifeController.uasset'
+[2021.05.16-02.30.55:824][200]AssetCheck: New page: Asset Save: BP_DailyLifeController
+[2021.05.16-02.30.55:824][200]LogContentValidation: Display: Validating Blueprint /Game/DailyLifeCharacter/Controller/BP_DailyLifeController.BP_DailyLifeController
+[2021.05.16-02.31.19:026][371]LogEditorTransaction: Undo Move Node
+[2021.05.16-02.31.19:342][375]LogEditorTransaction: Undo Change Object Pin Value
+[2021.05.16-02.31.19:943][401]LogEditorTransaction: Undo Move Node
+[2021.05.16-02.31.20:347][425]LogEditorTransaction: Undo Move Node
+[2021.05.16-02.31.20:714][447]LogEditorTransaction: Undo Add Node
+[2021.05.16-02.31.21:660][503]BlueprintLog: New page: Compile BP_DailyLifeController
+[2021.05.16-02.31.21:691][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.16-02.31.22:171][530]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/BP_DailyLifeControllerAFC8826349E9B4FDCE62F3805EBDA011.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/Controller/BP_DailyLifeController.uasset'
+[2021.05.16-02.31.22:183][530]AssetCheck: New page: Asset Save: BP_DailyLifeController
+[2021.05.16-02.31.22:184][530]LogContentValidation: Display: Validating Blueprint /Game/DailyLifeCharacter/Controller/BP_DailyLifeController.BP_DailyLifeController
+[2021.05.16-02.31.24:836][681]Candidate modules for hot reload:
+[2021.05.16-02.31.24:836][681]  GTA6
+[2021.05.16-02.31.24:836][681]Launching UnrealBuildTool... [D:/Softwares/Unreal Engine/UE_4.25/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GTA6,9686 GTA6Editor Win64 Development -Project="D:/2021 Projects/GTA/GTA6/GTA6.uproject" "D:/2021 Projects/GTA/GTA6/GTA6.uproject"  -IgnoreJunk]
+[2021.05.16-02.31.24:845][681]Warning: Starting HotReload took  0.1s.
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: New page: Compilation - May 15, 2021, 4:31:56 PM
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Parsing headers for GTA6Editor
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   Running UnrealHeaderTool "D:\2021 Projects\GTA\GTA6\GTA6.uproject" "D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\GTA6Editor\Development\GTA6Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\bsaja\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Reflection code generated for GTA6Editor in 5.7137023 seconds
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Building GTA6Editor...
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Using Visual Studio 2019 14.25.28610 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Building 7 actions with 12 processes...
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [1/7] BTTask_SetTargetLocation.cpp
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [2/7] DailyLifeController.cpp
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [3/7] BTTask_SetTargetLocation.gen.cpp
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [4/7] DailyLifeController.gen.cpp
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [5/7] UE4Editor-GTA6-9686.lib
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:      Creating library D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\UE4Editor-GTA6-9686.lib and object D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\UE4Editor-GTA6-9686.exp
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [6/7] UE4Editor-GTA6-9686.dll
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:      Creating library D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\UE4Editor-GTA6-9686.suppressed.lib and object D:\2021 Projects\GTA\GTA6\Intermediate\Build\Win64\UE4Editor\Development\GTA6\UE4Editor-GTA6-9686.suppressed.exp
+[2021.05.16-02.31.56:940][589]CompilerResultsLog:   [7/7] GTA6Editor.target
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Total time in Parallel executor: 25.56 seconds
+[2021.05.16-02.31.56:940][589]CompilerResultsLog: Total execution time: 31.97 seconds
+[2021.05.16-02.31.56:940][589]LogMainFrame: MainFrame: Module compiling took 32.108 seconds
+[2021.05.16-02.31.56:957][589]LogContentBrowser: Native class hierarchy updated for 'GTA6' in 0.0007 seconds. Added 6 classes and 8 folders.
+[2021.05.16-02.31.56:959][589]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.16-02.31.57:044][589]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3433 classes and 829 folders.
+[2021.05.16-02.31.57:044][589]Display: HotReload took 32.3s.
+[2021.05.16-02.32.07:112][168]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.32.07:122][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.32.07:122][168]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:32:07 PM)
+[2021.05.16-02.32.07:123][168]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.16-02.32.07:124][168]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.16-02.32.07:124][168]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.32.07:140][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015358s)
+[2021.05.16-02.32.07:141][168]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.32.07:141][168]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026229E5FE00), frame # 7168
+[2021.05.16-02.32.07:141][168]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000261D5BAD580), frame # 7168
+[2021.05.16-02.32.07:141][168]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.05.16-02.32.07:141][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016600s)
+[2021.05.16-02.32.07:186][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.32.07:187][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.32.07:187][168]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.32.07:187][168]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.32.07:191][168]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.32.07:191][168]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.32.07:208][168]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.32.07:208][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.32.07:208][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.32.07:208][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.32.07:208][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.32.07:223][168]LogInit: FAudioDevice initialized.
+[2021.05.16-02.32.07:233][168]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.32.07:236][168]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.32.07
+[2021.05.16-02.32.07:980][168]LogWorld: Bringing up level for play took: 0.744921
+[2021.05.16-02.32.08:009][168]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.16-02.32.08:214][168]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.05.16-02.32.08:224][168]PIE: Server logged in
+[2021.05.16-02.32.08:237][168]PIE: Play in editor total start time 1.117 seconds.
+[2021.05.16-02.32.26:625][ 98]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/DailyLifeCharacter/AI/DailyLifeBT.DailyLifeBT
+[2021.05.16-02.32.44:190][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.32.44:191][132]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.32.44:191][132]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.32.44:191][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.32.44:202][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-02.32.44:266][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.32.44:313][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.32.44:333][132]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026229E5FE00), frame # 9132
+[2021.05.16-02.32.44:333][132]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000261D5BAD580), frame # 9132
+[2021.05.16-02.32.44:346][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.16-02.32.44:363][133]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.16-02.32.50:576][480]BlueprintLog: New page: Compile BP_DailyLifeMasterAI
+[2021.05.16-02.32.50:633][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.16-02.32.51:300][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DailyLifeCharacter/BP_DailyLifeMasterAI" FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/BP_DailyLifeMasterAI.uasset" SILENT=true
+[2021.05.16-02.32.51:311][515]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/BP_DailyLifeMasterAI2015DBD146A1B3107097E1A81A9C031E.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/BP_DailyLifeMasterAI.uasset'
+[2021.05.16-02.32.51:322][515]AssetCheck: New page: Asset Save: BP_DailyLifeMasterAI
+[2021.05.16-02.32.51:322][515]LogContentValidation: Display: Validating Blueprint /Game/DailyLifeCharacter/BP_DailyLifeMasterAI.BP_DailyLifeMasterAI
+[2021.05.16-02.32.52:757][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.16-02.32.52:781][598]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMapF1DD926449901585023EA6B7D22D994B.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.16-02.32.52:911][598]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap_BuiltData5B9989B04E0750698A03D1AE488A3028.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.16-02.32.52:925][598]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.16-02.32.52:925][598]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.16-02.32.52:925][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.16-02.32.53:863][655]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.32.53:873][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.32.53:873][655]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:32:53 PM)
+[2021.05.16-02.32.53:873][655]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.32.53:882][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009082s)
+[2021.05.16-02.32.53:883][655]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.32.53:883][655]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026229E5DA00), frame # 9655
+[2021.05.16-02.32.53:883][655]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000262153C2D40), frame # 9655
+[2021.05.16-02.32.53:883][655]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.05.16-02.32.53:883][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010075s)
+[2021.05.16-02.32.53:912][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.32.53:912][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.32.53:912][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.32.53:913][655]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.32.53:913][655]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.32.53:916][655]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.32.53:916][655]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.32.53:931][655]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.32.53:931][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.32.53:932][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.32.53:932][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.32.53:932][655]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.32.53:933][655]LogInit: FAudioDevice initialized.
+[2021.05.16-02.32.53:950][655]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.32.53:953][655]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.32.53
+[2021.05.16-02.32.53:953][655]LogWorld: Bringing up level for play took: 0.001581
+[2021.05.16-02.32.53:953][655]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.16-02.32.53:963][655]PIE: Server logged in
+[2021.05.16-02.32.53:964][655]PIE: Play in editor total start time 0.093 seconds.
+[2021.05.16-02.33.28:694][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.33.28:694][608]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.33.28:694][608]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.33.28:694][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.33.28:853][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-02.33.28:857][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.33.28:895][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.33.28:896][608]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000262153C2D40), frame # 11608
+[2021.05.16-02.33.28:896][608]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026229E5DA00), frame # 11608
+[2021.05.16-02.33.28:898][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.05.16-02.33.28:922][609]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.16-02.33.47:963][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DailyLifeCharacter/AI/DailyLifeBT" FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/AI/DailyLifeBT.uasset" SILENT=true
+[2021.05.16-02.33.47:967][741]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/DailyLifeBT823D998A4B8A3511417B769B76E3BE4C.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/AI/DailyLifeBT.uasset'
+[2021.05.16-02.33.47:979][741]AssetCheck: New page: Asset Save: DailyLifeBT
+[2021.05.16-02.33.47:979][741]LogContentValidation: Display: Validating BehaviorTree /Game/DailyLifeCharacter/AI/DailyLifeBT.DailyLifeBT
+[2021.05.16-02.33.50:774][905]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.33.50:784][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.33.50:784][905]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:33:50 PM)
+[2021.05.16-02.33.50:812][905]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.33.50:822][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010497s)
+[2021.05.16-02.33.50:824][905]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.33.50:824][905]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261A4B1BE00), frame # 12905
+[2021.05.16-02.33.50:824][905]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026227469F80), frame # 12905
+[2021.05.16-02.33.50:824][905]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2021.05.16-02.33.50:824][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012241s)
+[2021.05.16-02.33.50:851][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.33.50:852][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.33.50:852][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.33.50:853][905]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.33.50:853][905]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.33.50:856][905]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.33.50:856][905]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.33.50:872][905]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.33.50:872][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.33.50:872][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.33.50:872][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.33.50:873][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.33.50:887][905]LogInit: FAudioDevice initialized.
+[2021.05.16-02.33.50:893][905]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.33.50:895][905]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.33.50
+[2021.05.16-02.33.50:895][905]LogWorld: Bringing up level for play took: 0.001537
+[2021.05.16-02.33.50:895][905]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.16-02.33.50:897][905]PIE: Server logged in
+[2021.05.16-02.33.50:898][905]PIE: Play in editor total start time 0.117 seconds.
+[2021.05.16-02.34.22:033][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.34.22:033][770]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.34.22:033][770]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.34.22:035][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.34.22:045][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-02.34.22:049][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.34.22:089][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.34.22:089][770]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026227469F80), frame # 14770
+[2021.05.16-02.34.22:089][770]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261A4B1BE00), frame # 14770
+[2021.05.16-02.34.22:092][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.05.16-02.34.22:114][771]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.16-02.34.31:183][294]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2021.05.16-02.34.37:989][669]BlueprintLog: New page: Compile BP_DailyLifeMasterAI
+[2021.05.16-02.34.38:043][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.05.16-02.34.38:623][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DailyLifeCharacter/BP_DailyLifeMasterAI" FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/BP_DailyLifeMasterAI.uasset" SILENT=true
+[2021.05.16-02.34.38:633][701]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/BP_DailyLifeMasterAI4D641CB14A14AF4527AA5D82A3CEC731.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/BP_DailyLifeMasterAI.uasset'
+[2021.05.16-02.34.38:644][701]AssetCheck: New page: Asset Save: BP_DailyLifeMasterAI
+[2021.05.16-02.34.38:644][701]LogContentValidation: Display: Validating Blueprint /Game/DailyLifeCharacter/BP_DailyLifeMasterAI.BP_DailyLifeMasterAI
+[2021.05.16-02.34.40:104][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.05.16-02.34.40:123][786]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap429ED1A24529BD3847A0948EA6B9FD35.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.16-02.34.40:204][786]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap_BuiltData1B5155B845536FC6E9E133971C615081.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.16-02.34.40:221][786]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.16-02.34.40:221][786]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.16-02.34.40:222][786]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.16-02.34.41:293][851]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.34.41:302][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.34.41:302][851]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:34:41 PM)
+[2021.05.16-02.34.41:302][851]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.34.41:313][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010653s)
+[2021.05.16-02.34.41:315][851]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.34.41:315][851]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002621ACB2400), frame # 15851
+[2021.05.16-02.34.41:315][851]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002621615A700), frame # 15851
+[2021.05.16-02.34.41:315][851]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2021.05.16-02.34.41:315][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012381s)
+[2021.05.16-02.34.41:342][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.34.41:343][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.34.41:343][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.34.41:344][851]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.34.41:344][851]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.34.41:347][851]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.34.41:347][851]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.34.41:363][851]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.34.41:363][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.34.41:363][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.34.41:363][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.34.41:363][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.34.41:377][851]LogInit: FAudioDevice initialized.
+[2021.05.16-02.34.41:385][851]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.34.41:387][851]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.34.41
+[2021.05.16-02.34.41:387][851]LogWorld: Bringing up level for play took: 0.001560
+[2021.05.16-02.34.41:388][851]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.05.16-02.34.41:389][851]PIE: Server logged in
+[2021.05.16-02.34.41:390][851]PIE: Play in editor total start time 0.09 seconds.
+[2021.05.16-02.35.01:515][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.35.01:515][ 55]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.35.01:515][ 55]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.35.01:516][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.35.01:524][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-02.35.01:528][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.35.01:568][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.35.01:569][ 55]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002621615A700), frame # 17055
+[2021.05.16-02.35.01:569][ 55]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002621ACB2400), frame # 17055
+[2021.05.16-02.35.01:571][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.16-02.35.01:593][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.05.16-02.35.16:860][967]BlueprintLog: New page: Compile BP_DailyLifeMasterAI
+[2021.05.16-02.35.16:915][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.16-02.35.17:823][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DailyLifeCharacter/BP_DailyLifeMasterAI" FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/BP_DailyLifeMasterAI.uasset" SILENT=true
+[2021.05.16-02.35.17:833][ 19]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/BP_DailyLifeMasterAI09FAF7BE44EB1A9DE7BEDFBF3CDD966A.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/DailyLifeCharacter/BP_DailyLifeMasterAI.uasset'
+[2021.05.16-02.35.17:844][ 19]AssetCheck: New page: Asset Save: BP_DailyLifeMasterAI
+[2021.05.16-02.35.17:844][ 19]LogContentValidation: Display: Validating Blueprint /Game/DailyLifeCharacter/BP_DailyLifeMasterAI.BP_DailyLifeMasterAI
+[2021.05.16-02.35.19:418][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.16-02.35.19:438][111]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap82EB0AB44317FECED65EABA38386392C.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.16-02.35.19:519][111]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap_BuiltData4BFAF19D417D10C76C7677B80263858A.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.16-02.35.19:533][111]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.16-02.35.19:534][111]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.16-02.35.19:534][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.16-02.35.20:655][179]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.35.20:665][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.35.20:665][179]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:35:20 PM)
+[2021.05.16-02.35.20:711][179]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.35.20:722][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010732s)
+[2021.05.16-02.35.20:723][179]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.35.20:723][179]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002621B2AEA00), frame # 18179
+[2021.05.16-02.35.20:723][179]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026216360B80), frame # 18179
+[2021.05.16-02.35.20:724][179]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2021.05.16-02.35.20:724][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012536s)
+[2021.05.16-02.35.20:752][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.35.20:754][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.35.20:754][179]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.35.20:754][179]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.35.20:759][179]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.35.20:759][179]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.35.20:783][179]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.35.20:783][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.35.20:784][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.35.20:784][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.35.20:784][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.35.20:798][179]LogInit: FAudioDevice initialized.
+[2021.05.16-02.35.20:804][179]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.35.20:806][179]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.35.20
+[2021.05.16-02.35.20:807][179]LogWorld: Bringing up level for play took: 0.001616
+[2021.05.16-02.35.20:807][179]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.05.16-02.35.20:809][179]PIE: Server logged in
+[2021.05.16-02.35.20:810][179]PIE: Play in editor total start time 0.146 seconds.
+[2021.05.16-02.35.24:064][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.35.24:064][371]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.35.24:064][371]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.35.24:065][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.35.24:072][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-02.35.24:076][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.35.24:115][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.35.24:116][371]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026216360B80), frame # 18371
+[2021.05.16-02.35.24:116][371]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002621B2AEA00), frame # 18371
+[2021.05.16-02.35.24:118][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.05.16-02.35.24:139][372]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.05.16-02.35.30:070][727]LogEditorViewport: Clicking on Actor (LMB): BP_DailyLifeMasterAI_C (BP_DailyLifeMasterAI)
+[2021.05.16-02.35.35:485][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.05.16-02.35.35:505][ 45]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMapCCB1C6D94F9872C337A5CC95578A08DF.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.16-02.35.35:584][ 45]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap_BuiltDataA6FDEB4544ACFE42260864BCD0D9DC28.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.16-02.35.35:600][ 45]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.16-02.35.35:600][ 45]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.16-02.35.35:600][ 45]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.16-02.35.36:542][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.35.36:553][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.35.36:553][ 99]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:35:36 PM)
+[2021.05.16-02.35.36:554][ 99]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.35.36:564][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010270s)
+[2021.05.16-02.35.36:565][ 99]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.35.36:565][ 99]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002622A2CFE00), frame # 19099
+[2021.05.16-02.35.36:565][ 99]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026216192480), frame # 19099
+[2021.05.16-02.35.36:566][ 99]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2021.05.16-02.35.36:566][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012132s)
+[2021.05.16-02.35.36:594][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.35.36:596][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.35.36:596][ 99]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.35.36:596][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.35.36:600][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.35.36:600][ 99]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.35.36:615][ 99]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.35.36:615][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.35.36:615][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.35.36:616][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.35.36:616][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.35.36:630][ 99]LogInit: FAudioDevice initialized.
+[2021.05.16-02.35.36:641][ 99]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.35.36:643][ 99]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.35.36
+[2021.05.16-02.35.36:643][ 99]LogWorld: Bringing up level for play took: 0.001645
+[2021.05.16-02.35.36:644][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.05.16-02.35.36:646][ 99]PIE: Server logged in
+[2021.05.16-02.35.36:646][ 99]PIE: Play in editor total start time 0.097 seconds.
+[2021.05.16-02.35.38:864][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.35.38:864][229]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.35.38:865][229]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.35.38:865][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.35.38:878][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.16-02.35.38:881][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.35.38:905][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.16-02.35.38:924][229]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026216192480), frame # 19229
+[2021.05.16-02.35.38:924][229]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002622A2CFE00), frame # 19229
+[2021.05.16-02.35.38:926][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.05.16-02.35.38:949][230]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.05.16-02.36.00:609][527]LogEditorViewport: Clicking on Actor (LMB): BP_DailyLifeMasterAI_C (BP_DailyLifeMasterAI)
+[2021.05.16-02.36.01:419][573]Cmd: DELETE
+[2021.05.16-02.36.01:419][573]Cmd: ACTOR DELETE
+[2021.05.16-02.36.01:421][573]LogEditorActor: Deleted Actor: BP_DailyLifeMasterAI_C
+[2021.05.16-02.36.01:445][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.05.16-02.36.01:446][573]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.05.16-02.36.03:351][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.16-02.36.03:370][682]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMapC913B1F04ED7C1B5FECF5F9614953A75.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.16-02.36.03:449][682]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap_BuiltData1E558DF94E661C3EC084F7843BB4907B.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.16-02.36.03:464][682]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.16-02.36.03:464][682]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.16-02.36.03:464][682]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.16-02.36.24:461][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/NPC.NPC
+[2021.05.16-02.36.26:432][996]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.16-02.36.26:432][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.16-02.36.26:522][996]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/NPC.NPC
+[2021.05.16-02.36.28:534][ 95]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.16-02.36.32:259][306]BlueprintLog: New page: Compile NPC
+[2021.05.16-02.36.32:436][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.05.16-02.36.32:897][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/NPC" FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Blueprints/NPC.uasset" SILENT=true
+[2021.05.16-02.36.32:909][330]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/NPCB4D1696945BBCC8FA29A8DAAF95EE7A5.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Blueprints/NPC.uasset'
+[2021.05.16-02.36.32:920][330]AssetCheck: New page: Asset Save: NPC
+[2021.05.16-02.36.32:920][330]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/NPC.NPC
+[2021.05.16-02.36.50:556][317]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.16-02.37.03:404][939]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2021.05.16-02.37.03:410][939]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/ThirdPersonCPP/Blueprints/NPC.NPC from GTA6Character to DailyLifeMasterAI...
+[2021.05.16-02.37.03:418][939]BlueprintLog: New page: Compile NPC
+[2021.05.16-02.37.03:529][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.05.16-02.37.11:371][397]BlueprintLog: New page: Compile NPC
+[2021.05.16-02.37.11:479][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.05.16-02.37.12:418][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/NPC" FILE="../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Blueprints/NPC.uasset" SILENT=true
+[2021.05.16-02.37.12:428][449]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/NPC270C903641761BEC1D3EE58B366663B3.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Blueprints/NPC.uasset'
+[2021.05.16-02.37.12:440][449]AssetCheck: New page: Asset Save: NPC
+[2021.05.16-02.37.12:440][449]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/NPC.NPC
+[2021.05.16-02.37.14:406][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.05.16-02.37.14:426][554]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap4FDE1D594CA04D667B2CAEB473871B71.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.16-02.37.14:507][554]LogSavePackage: Moving '../../../../../../../2021 Projects/GTA/GTA6/Saved/ThirdPersonExampleMap_BuiltData16E076D543D6344D96970C9340C81D53.tmp' to '../../../../../../../2021 Projects/GTA/GTA6/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.16-02.37.14:522][554]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.16-02.37.14:522][554]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.16-02.37.14:522][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.16-02.37.15:488][612]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.16-02.37.15:498][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.16-02.37.15:498][612]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2021, 4:37:15 PM)
+[2021.05.16-02.37.15:498][612]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.16-02.37.15:508][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009659s)
+[2021.05.16-02.37.15:509][612]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.16-02.37.15:509][612]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026232E2A400), frame # 24612
+[2021.05.16-02.37.15:509][612]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026263619E40), frame # 24612
+[2021.05.16-02.37.15:509][612]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2021.05.16-02.37.15:509][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010941s)
+[2021.05.16-02.37.15:539][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.16-02.37.15:541][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.16-02.37.15:541][612]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.16-02.37.15:541][612]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.16-02.37.15:545][612]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.16-02.37.15:545][612]LogAudioMixer: Display: 1: FrontRight
+[2021.05.16-02.37.15:560][612]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.16-02.37.15:560][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.16-02.37.15:560][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.16-02.37.15:560][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.16-02.37.15:561][612]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.16-02.37.15:575][612]LogInit: FAudioDevice initialized.
+[2021.05.16-02.37.15:584][612]LogLoad: Game class is 'GTA6GameMode'
+[2021.05.16-02.37.15:586][612]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.15-21.37.15
+[2021.05.16-02.37.15:586][612]LogWorld: Bringing up level for play took: 0.001619
+[2021.05.16-02.37.15:587][612]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.16-02.37.15:589][612]PIE: Server logged in
+[2021.05.16-02.37.15:589][612]PIE: Play in editor total start time 0.093 seconds.
+[2021.05.16-02.37.15:590][612]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.16-02.37.15:590][612]LogWindows: Windows GetLastError: The operation completed successfully. (0)
